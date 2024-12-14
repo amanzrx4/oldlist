@@ -1,1 +1,2 @@
-## Old list. App to list & sell stuff you're not using
+## Old list. 
+Webapp to list & sell stuff
